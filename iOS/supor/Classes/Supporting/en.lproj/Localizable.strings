@@ -1,0 +1,1569 @@
+/* ! Missing context ! */
+"airpurifier_cm_san_qrcode" = "Scan the QR code located behind your purifier";
+
+/* ! Missing context ! */
+"airpurifier_cm_san_qrcode_msg" = "Please allow Rowenta to access to your camera, in your privacy settings / Camera";
+
+/* ! Missing context ! */
+"airpurifier_public_ok" = "OK";
+
+/* ! Missing context ! */
+"airpurifier_public_cancel" = "Cancel";
+
+/* ! Missing context ! */
+"airpurifier_public_refuse" = "Refuse";
+
+/* ! Missing context ! */
+"airpurifier_public_confirm" = "Confirm";
+
+/* ! Missing context ! */
+"airpurifier_public_nodata" = "No Data";
+
+/* ! Missing context ! */
+"airpurifier_public_fail" = "Fail";
+
+/* ! Missing context ! */
+"airpurifier_public_success" = "Success";
+
+/* ! Missing context ! */
+"airpurifier_login_cookies_title" = "Cookies";
+
+/* ! Missing context ! */
+"airpurifier_login_cookies_msg_ios" = "By clicking <OK>, you accept the use of audience measurement cookies to enhance your user experience.";
+
+/* ! Missing context ! */
+"airpurifier_login_cookies_more" = "Settings";
+
+/* Forgot password */
+"airpurifier_login_show_forgetpwd_text" = "Forgotten password";
+
+/* Registered users */
+"airpurifier_login_show_register_text" = "Create an account";
+
+/* The login */
+"airpurifier_login_show_button_text" = "Log in";
+
+/* ! Missing context ! */
+"airpurifier_login_show_email_hint" = "Input email address";
+
+/* Please enter the password */
+"airpurifier_login_show_pwd_hint" = "Input password";
+
+/* Account or password is not correct */
+"airpurifier_login_show_toswrongpwdaccount_text" = "Account or password is wrong";
+
+/* Network error */
+"airpurifier_login_show_tosneterror_text" = "Network connection error";
+
+/* Are logged in, please wait... */
+"airpurifier_login_show_toslogining_text" = "Being logged in, please hold on...";
+
+/* ! Missing context ! */
+"airpurifier_login_show_registepasswordrule_text" = "Minimum 8 characters, including 1 capital letter, 1 small letter, 1 number.";
+
+/* login */
+"airpurifier_login_show_email_text" = "E-mail";
+
+/* ! Missing context ! */
+"airpurifier_login_show_currentpassword_text" = "Current password";
+
+/* ! Missing context ! */
+"airpurifier_login_show_pwd_text" = "Password";
+
+/* submit */
+"airpurifier_login_show_button_submittext" = "Submit";
+
+/* This number has been registered */
+"airpurifier_login_show_registertosphonealreadyregidter_text" = "This account already exists";
+
+/* Mobile phone number is invalid */
+"airpurifier_login_show_registertosinvalidphonenumber_text" = "Wrong email address";
+
+/* ! Missing context ! */
+"airpurifier_login_show_registerwelcome_text" = "Welcome to Rowenta universe! Please first read the agreement and confirm to accept it.";
+
+/* ! Missing context ! */
+"airpurifier_login_show_register_agreementtitle_text" = "Rowenta User Agreement";
+
+/* ! Missing context ! */
+"airpurifier_login_show_registeracceptagreement_text" = "Confirm";
+
+/* ! Missing context ! */
+"airpurifier_login_show_registerreadagreement_text" = "I have read and accept the Rowenta User Agreement";
+
+/* Confirm password */
+"airpurifier_login_show_registeconfirmpwd_text" = "Confirm password";
+
+/* ! Missing context ! */
+"airpurifier_login_show_changepassword_text" = "Reset password";
+
+/* ! Missing context ! */
+"airpurifier_login_show_login_text" = "Sign in";
+
+/* Retrieve password */
+"airpurifier_login_show_reset_title_text" = "Retrieve password";
+
+/* Registration failed */
+"airpurifier_login_show_registertosregistfailed_text" = "Login has failed";
+
+/* ! Missing context ! */
+"airpurifier_login_show_psdinfo_text_ios" = "We have sent your new password to your mailbox %@ ";
+
+/* No equipment */
+"airpurifier_login_show_tosnodevice_text" = "No device";
+
+/* ! Missing context ! */
+"airpurifier_register_show_registertext_title" = "Register";
+
+/* ! Missing context ! */
+"airpurifier_register_findpwd" = "Retrieve password";
+
+/* ! Missing context ! */
+"airpurifier_register_show_pwd_placeholder" = "Input here";
+
+/* registered */
+"airpurifier_register_show_inputemailaddress_hint" = "Input email address";
+
+/* You haven't connected devices */
+"airpurifier_more_show_havenodevice_text" = "You haven\'t connected the device";
+
+/* ! Missing context ! */
+"airpurifier_more_show_rightcovers_text" = "The front cover is open, please check it!";
+
+/* ! Missing context ! */
+"airpurifier_more_show_deviceFailure_text" = "Device failure";
+
+/* ! Missing context ! */
+"airpurifier_more_show_settings_text" = "Settings";
+
+/* ! Missing context ! */
+"airpurifier_more_show_nothank_text" = "No thank you";
+
+/* Open the booking */
+"airpurifier_dialog_show_openopintment_text" = "Start programming";
+
+/* ! Missing context ! */
+"airpurifier_dialog_show_slidingremind_text" = "Swipe to switch to other products";
+
+/* Head portrait */
+"airpurifier_more_show_head_text" = "Avatar";
+
+/* nickname */
+"airpurifier_more_show_nickname_text" = "Nickname";
+
+/* ! Missing context ! */
+"airpurifier_more_show_change_password_text" = "Change password";
+
+/* ! Missing context ! */
+"airpurifier_more_show_area" = "Space area of device";
+
+/* ! Missing context ! */
+"airpurifier_more_show_start" = "Start";
+
+/* ! Missing context ! */
+"airpurifier_more_show_end" = "End";
+
+/* ! Missing context ! */
+"airpurifier_more_show_worktime" = "Workdays";
+
+/* Exit from the current account */
+"airpurifier_more_show_exitcurrentaccount_text" = "Logout";
+
+/* Are you sure you want to exit? */
+"airpurifier_more_show_areyousureexit_text" = "Are you sure you want to disconnect?";
+
+/* Improve the personal information */
+"airpurifier_more_show_personaltitle_text" = "Complete personal information";
+
+/* Taking pictures */
+"airpurifier_more_show_takephoto_text" = "Take a picture";
+
+/* From the album to choose */
+"airpurifier_more_show_selectfromalbum_text" = "Select from album";
+
+/* Modify the nickname */
+"airpurifier_more_show_modifyName_title" = "Modify nickname";
+
+/* Please enter a name */
+"airpurifier_more_show_modifyname_hint" = "Input product name";
+
+/* ! Missing context ! */
+"airpurifier_more_show_modifyname_comfirm_ios" = "Confirm change";
+
+/* ! Missing context ! */
+"airpurifier_more_show_modifyname_fail_ios" = "Modify the failure";
+
+/* ! Missing context ! */
+"airpurifier_push_lv_alert_content_ios" = "Your %@ %@ filter has consumed above %@%%%%. In order to maintain full efficiency, please change it as soon as possible.";
+
+/* ! Missing context ! */
+"airpurifier_push_pm_alert_content_ios" = "We advise you to turn your product on";
+
+/* ! Missing context ! */
+"airpurifier_push_pm_alert_title_ios" = "Current air quality";
+
+/* ! Missing context ! */
+"airpurifier_push_home_you_ios" = "Excellent";
+
+/* ! Missing context ! */
+"airpurifier_push_show_poor_text_ios" = "Bad";
+
+/* ! Missing context ! */
+"airpurifier_push_qing_ios" = "Slightly polluted";
+
+/* ! Missing context ! */
+"airpurifier_push_zhong_ios" = "Highly polluted";
+
+/* ! Missing context ! */
+"airpurifier_push_zhongdu_ios" = "Very highly polluted";
+
+/* Exit from the current account */
+"airpurifier_push_alert_pm_no" = "No more warning";
+
+/* ! Missing context ! */
+"airpurifier_push_alert_pm_yes" = "Turn on immediately";
+
+/* ! Missing context ! */
+"airpurifier_push_alert_lv_yes" = "Change";
+
+/* ! Missing context ! */
+"airpurifier_push_msg" = "We advise to turn the air purifier on %@ minutes before coming home";
+
+/* open */
+"airpurifier_more_show_open_text" = " On";
+
+/* close */
+"airpurifier_more_show_close_text" = " Off";
+
+/* ! Missing context ! */
+"airpurifier_more_show_preferences_text" = "Preferences & Legal Issues";
+
+/* A total of */
+"airpurifier_more_show_gong_text" = "Gas";
+
+/* A device */
+"airpurifier_more_show_gongdevice_text" = " Device";
+
+/* My reservation */
+"airpurifier_more_show_myorder_text" = " My scheduling";
+
+/* My news( */
+"airpurifier_more_show_mynews_text" = "My news";
+
+/* Set up time */
+"airpurifier_more_show_setbusinesstime_text" = "Set a time schedule";
+
+/* ! Missing context ! */
+"airpurifier_more_open_ios" = "Turned On";
+
+/* ! Missing context ! */
+"airpurifier_more_close_ios" = "Turned Off";
+
+/* Free service hotline */
+"airpurifier_more_show_freeaftersaleshotline_text" = "Free hotline";
+
+/* After-sales service network */
+"airpurifier_more_show_aftersalesservicenetwork_text" = "Service network after sales";
+
+/* Setting */
+"airpurifier_more_show_setting_title" = "Setting";
+
+/* ! Missing context ! */
+"airpurifier_more_nomsg_hint_ios" = "No Message";
+
+/* ! Missing context ! */
+"airpurifier_more_show_theifuofproduct_text" = "User guide";
+
+/* ! Missing context ! */
+"airpurifier_more_show_callconfirm_text_ios" = "Are you sure you want to call \"%@\"?";
+
+/* Equipment management */
+"airpurifier_moredevice_show_mydevice_title" = "My device";
+
+/* model */
+"airpurifier_moredevice_show_type_text" = "Rowenta XL in EU";
+
+/* ! Missing context ! */
+"airpurifier_more_show_devicemodelnumber_text" = "%@";
+
+/* Equipment information */
+"airpurifier_moredevice_show_deviceinfo_text" = "Device Information";
+
+/* Equipment qr code */
+"airpurifier_moredevice_show_devicecode_text" = "Product sharing";
+
+/* Remove the binding equipment */
+"airpurifier_more_show_sureremovebinddevice_text" = "Remove the pairing";
+
+/* ! Missing context ! */
+"airpurifier_more_show_warning_text" = "WARNING";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_permissions_hint_ios" = "No permission";
+
+/* Members of the management */
+"airpurifier_moredevice_show_membermenage_text" = "Information on sharing";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_delete_device_ios" = "Do you want to remove the pairing with product named \"%@\"?";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_delete_user_ios" = "Do you want to delete \"%@\"?";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_devicemac_text" = "Mac add";
+
+/* Control failure */
+"airpurifier_moredevice_show_controlfailed_text" = "Check your phone network";
+
+/* Network anomalies */
+"airpurifier_moredevice_show_netnormal_text" = "Network error";
+
+/* Scan the qr code */
+"airpurifier_moredevice_show_scanqrcode_text" = "Scan QR code";
+
+/* Manually add */
+"airpurifier_moredevice_show_manuallyadd_text" = "Manually Add";
+
+/* My device */
+"airpurifier_moredevice_show_deviceList_title" = "My devices";
+
+/* Air purifier KJ600G_530 SUPOR */
+"airpurifier_more_show_suporttreater_text" = "Rowenta air purifier %@";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_errqrcode_ios" = "Wrong QR Code";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_addfail_ios" = "Unsuccessfully added";
+
+/* open */
+"airpurifier_moredevice_show_addsuccess" = "Successfully added";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_validate_ios" = "QR code expired";
+
+/* Select models */
+"airpurifier_moredevice_show_choose_type" = "Select model";
+
+/* WIFI Settings */
+"airpurifier_moredevice_show_wifi_set" = "Wi-Fi settings";
+
+/* Equipment binding */
+"airpurifier_moredevice_show_device_bind" = "Device pairing";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_category_ios" = "Choose the type";
+
+/* Work mode, long press light regulation and at the same time in the equipment side mesh Settings key 3 seconds (pictured above), the equipment after the "ding" 1, the WIFI light flash indicates that the equipment has to enter configuration mode.Type in the name wi-fi password, then click start configuration. */
+"airpurifier_moredevice_show_usemethod_text" = "Once the purifier is on, Push the Wi-Fi button on the device for 3 seconds. After hearing a \"Ding\" from the device, the Wi-Fi indicator starts flashing, showing the device is now in configuration mode. Then, input the name and password of the network and click \"Start Configuration\".";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_hint_ios" = "Configuration has failed. Let\'s check what is the problem: (1) Is the device operating normally? (2) Is the Wi-Fi network well connected?";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_network_error_ios" = "The current network is not available, please check the network Settings";
+
+/* Add a new device */
+"airpurifier_moredevice_show_addnewdevice_text" = "Add new device";
+
+/* The name of the */
+"airpurifier_moredevice_show_name_text" = "Name";
+
+/* Password */
+"airpurifier_moredevice_show_wifipwd_text" = "Password";
+
+/* Please remove the power supply equipment, connected the power again, and then click retry. */
+"airpurifier_moredevice_show_pullelectricretry_text" = "Please unplug the device and plug it again.";
+
+/* I want to try again */
+"airpurifier_moredevice_show_retry_text" = "Try again";
+
+/* Scan the qr code to add */
+"airpurifier_moredevice_show_scanqrcode_add" = "Scan the QR code located behind your purifier ";
+
+/* Device name */
+"airpurifier_more_show_modifydevicename_title" = "Name";
+
+/* The MAC address: */
+"airpurifier_moredevice_show_macaddress_text" = "MAC Address";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_start_config_ios" = "Start Configuration";
+
+/* Is the search equipment please wait patiently. */
+"airpurifier_moredevice_show_searchdevicewait_text" = "Searching device, please wait...";
+
+/* ! Missing context ! */
+"airpurifier_more_nodevice_hint_ios" = "No device";
+
+/* Add equipment */
+"airpurifier_moredevice_show_adddevice_text" = "Add device";
+
+/* ! Missing context ! */
+"airpurifier_more_show_checkwifi_text" = "Please check if the Wi-Fi is active on your phone and if you are connected to the same Wi-Fi as your product.";
+
+/* ! Missing context ! */
+"airpurifier_more_show_shareqrcode_text" = "Share pairing by QR code or login";
+
+/* Refresh automatically after 5 minutes */
+"airpurifier_more_show_fiveminutesrefreshago_text" = "This QR code is valid for 5 minutes";
+
+/* Through the mobile phone number to share */
+"airpurifier_more_show_sharethroughphone_text" = " Share by login";
+
+/* Cancel the alignment to share */
+"airpurifier_more_show_cancelsharealign_text" = "Cancel";
+
+/* ! Missing context ! */
+"airpurifier_more_show_emailtip_text" = "Please correctly enter the e-mail address. This user must have already installed the application and have created an account.";
+
+/* Mobile phone number to share */
+"airpurifier_moredevice_show_phoneshare_text" = "Share e-mail";
+
+/* Sharing equipment failure */
+"airpurifier_moredevice_show_devicesharefailed_text" = "Device sharing failed";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_sharetophone_hint" = "Please input email";
+
+/* Modify the nickname failure */
+"airpurifier_more_show_virifynicknamefailed_text" = "Nickname modification failed";
+
+/* Confirm the change */
+"airpurifier_more_show_modifyname_button" = "Confirm modification";
+
+/* Select models */
+"airpurifier_more_show_modifyname_text" = "Create an account";
+
+/* Formaldehyde concentration */
+"airpurifier_more_show_olfactory_text" = "Formaldehyde concentration";
+
+/* Equipment is not online */
+"airpurifier_moredevice_show_devicenotonline_text" = "Device is not online";
+
+/* To make an appointment time overlap */
+"airpurifier_more_show_appointmenttimeoverlap_text" = "The scheduled time is overlapped";
+
+/* The operation failure */
+"airpurifier_more_show_operatorfailed_text" = "Operate unsuccessfully";
+
+/* ! Missing context ! */
+"airpurifier_more_show_addscheduling_text" = "Add scheduling time";
+
+/* ! Missing context ! */
+"airpurifier_more_show_deleteword_text" = "Delete";
+
+/* ! Missing context ! */
+"airpurifier_more_show_suretodelete_text" = "Do you want to delete?";
+
+/* ! Missing context ! */
+"airpurifier_more_show_saveword_text" = "Save";
+
+/* ! Missing context ! */
+"airpurifier_more_show_sundayword_text" = "Sunday";
+
+/* ! Missing context ! */
+"airpurifier_more_show_mondayword_text" = "Monday";
+
+/* ! Missing context ! */
+"airpurifier_more_show_tuesdayword_text" = "Tuesday";
+
+/* ! Missing context ! */
+"airpurifier_more_show_wednesdayword_text" = "Wednesday";
+
+/* ! Missing context ! */
+"airpurifier_more_show_thursdayword_text" = "Thursday";
+
+/* ! Missing context ! */
+"airpurifier_more_show_fridayword_text" = "Friday";
+
+/* ! Missing context ! */
+"airpurifier_more_show_saturdayword_text" = "Saturday";
+
+/* ! Missing context ! */
+"airpurifier_more_show_myscheduling_tex" = "My scheduling";
+
+/* ! Missing context ! */
+"airpurifier_more_show_editscheduling_tex" = "Edit schedule";
+
+/* ! Missing context ! */
+"airpurifier_more_show_deletescheduling_tex" = "Delete schedule";
+
+/* ! Missing context ! */
+"airpurifier_more_show_repeatsetting_tex" = "Repeat";
+
+/* ! Missing context ! */
+"airpurifier_more_show_sunword_text" = "Sun.";
+
+/* ! Missing context ! */
+"airpurifier_more_show_monword_text" = "Mon.";
+
+/* ! Missing context ! */
+"airpurifier_more_show_tuesword_text" = "Tues.";
+
+/* ! Missing context ! */
+"airpurifier_more_show_wedword_text" = "Wed.";
+
+/* ! Missing context ! */
+"airpurifier_more_show_thurword_text" = "Thur.";
+
+/* ! Missing context ! */
+"airpurifier_more_show_friword_text" = "Fri.";
+
+/* ! Missing context ! */
+"airpurifier_more_show_satword_text" = "Sat.";
+
+/* ! Missing context ! */
+"airpurifier_more_show_choosedevice_text" = "Choose device";
+
+/* ! Missing context ! */
+"airpurifier_more_show_choosemode_text" = "Choose mode";
+
+/* ! Missing context ! */
+"airpurifier_more_show_ontime_text" = "Start";
+
+/* ! Missing context ! */
+"airpurifier_more_show_offtime_text" = "Stop";
+
+/* ! Missing context ! */
+"airpurifier_more_show_repeatword_text" = "Repeat";
+
+/* ! Missing context ! */
+"airpurifier_more_show_devicename_tex" = "Device name";
+
+/* ! Missing context ! */
+"airpurifier_more_show_devicemode_tex" = "Device mode";
+
+/* ! Missing context ! */
+"airpurifier_more_show_autoday_tex" = "Auto day";
+
+/* ! Missing context ! */
+"airpurifier_more_show_autonight_tex" = "Auto night";
+
+/* ! Missing context ! */
+"airpurifier_more_show_boostword_tex" = "Boost";
+
+/* ! Missing context ! */
+"airpurifier_more_show_silentword_tex" = "Silent";
+
+/* ! Missing context ! */
+"airpurifier_more_show_onceword_tex" = "Once";
+
+/* ! Missing context ! */
+"airpurifier_more_show_filtercondition_tex" = "Filters condition";
+
+/* ! Missing context ! */
+"airpurifier_more_show_prefilter_tex" = "Pre-filter";
+
+/* ! Missing context ! */
+"airpurifier_more_show_activefilter_tex" = "Active carbon filter";
+
+/* ! Missing context ! */
+"airpurifier_more_show_hepafilter_tex" = "Allergy+ filter";
+
+/* ! Missing context ! */
+"airpurifier_more_show_nanofilter_tex" = "NanoCaptur filter";
+
+/* ! Missing context ! */
+"airpurifier_more_show_overplus_tex" = "Remaining capacity";
+
+/* ! Missing context ! */
+"airpurifier_more_show_change_filter_ios" = " Change filter";
+
+/* ! Missing context ! */
+"airpurifier_more_show_check_color_ios" = "Check the color of the granules";
+
+/* ! Missing context ! */
+"airpurifier_more_show_tobuy_tex" = "Buy";
+
+/* ! Missing context ! */
+"airpurifier_more_cleanfilter_tex" = "Remember to clean the filter";
+
+/* ! Missing context ! */
+"airpurifier_more_show_replacementremind_text" = "Filter replacement reminder";
+
+/* ! Missing context ! */
+"airpurifier_more_show_lv_content_ios" = "%@ of your %@ has been working %@ hours and it has been consumed by %@.";
+
+/* Suggest open air purifier */
+"airpurifier_more_show_openairpurifier_text" = "We advise you to turn your air purifier on";
+
+/* ! Missing context ! */
+"airpurifier_more_show_pmitem_text_ios" = "The air quality in %@ is poor. We advise you to limit outdoor activities and to turn your air purifier on.";
+
+/* Being pushed */
+"airpurifier_more_show_msgsend_text" = "Indoor air quality";
+
+/* Air quality report to the police */
+"airpurifier_more_show_airqualityalerm_text" = "Outdoor air quality";
+
+/* Parts update alert */
+"airpurifier_more_show_memberupdatemetion_text" = "Filter replacement";
+
+/* ! Missing context ! */
+"airpurifier_more_show_wifiupdatemetion_text" = "Wi-Fi module update";
+
+/* ! Missing context ! */
+"airpurifier_more_show_updatetipmsg_text_ios" = "Version";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_standard_ios" = "Air Quality Reference Standard";
+
+/* ! Missing context ! */
+"airpurifier_outdoor_show_outdoortitle_text" = "Outdoor air quality";
+
+/* ! Missing context ! */
+"airpurifier_more_show_airquality_text" = "Air quality level";
+
+/* ! Missing context ! */
+"airpurifier_more_air_headline" = "Headline";
+
+/* ! Missing context ! */
+"airpurifier_more_air_description" = "Description";
+
+/* ! Missing context ! */
+"airpurifier_more_air_fresh_headline" = "No risk";
+
+/* ! Missing context ! */
+"airpurifier_more_air_fresh_description" = "The air is pure, ideal for outdoor activities!";
+
+/* ! Missing context ! */
+"airpurifier_more_air_moderate_headline" = "Impact risk if chronic exposure";
+
+/* ! Missing context ! */
+"airpurifier_more_air_moderate_description" = "The air is moderately polluted. Greater than the maximum limit established for one year by WHO. A long-term exposure may be risky for your health";
+
+/* ! Missing context ! */
+"airpurifier_more_air_high_headline" = "Impact on health in case of chronic exposure";
+
+/* ! Missing context ! */
+"airpurifier_more_air_high_description" = "The air has reached a high level of pollution. Higher than the maximum limit for 24 hours established by WHO.";
+
+/* ! Missing context ! */
+"airpurifier_more_air_very_headline" = "Immediate impact on health";
+
+/* ! Missing context ! */
+"airpurifier_more_air_very_description" = "The air has reached a very high level of pollution. Effects can be immediately felt by sensitive individuals. Everybody feels the effects of a prolonged exposure.";
+
+/* ! Missing context ! */
+"airpurifier_more_air_excessive_headline" = "Immediate effects on sensitive people.";
+
+/* ! Missing context ! */
+"airpurifier_more_air_excessive_description" = "The pollution level has reached a critical level. Sensitive people feel immediate effects. Even healthy people may show symptoms for short exposure.";
+
+/* ! Missing context ! */
+"airpurifier_more_air_extreme_headline" = "Immediate effects on everybody";
+
+/* ! Missing context ! */
+"airpurifier_more_air_extreme_description" = "Pollution has reached extreme levels. Immediate effects on health. ";
+
+/* ! Missing context ! */
+"airpurifier_more_air_airpocalypse_headline" = "Major immediate effects";
+
+/* ! Missing context ! */
+"airpurifier_more_air_airpocalypse_description" = "Airpocalypse! Immediate and heavy effects on everybody.";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_fresh" = "Fresh air";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_moderate" = "Moderate pollution";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_high" = "High pollution";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_very" = "Very high pollution";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_excessive" = "Excessive pollution";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_extreme" = "Extreme pollution";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_airpocalypse" = "Airpocalypse";
+
+/* ! Missing context ! */
+"airpurifier_more_show_pm_text_ios" = "PM2.5";
+
+/* ! Missing context ! */
+"airpurifier_more_show_hcho_text_ios" = "HCHO";
+
+/* ! Missing context ! */
+"airpurifier_more_show_text_ios" = "We advise you to limit outdoor activities.";
+
+/* ! Missing context ! */
+"airpurifier_more_show_openair_text" = "Turn on the air purifier";
+
+/* ! Missing context ! */
+"airpurifier_more_show_personaldata_text" = "Personal data policy";
+
+/* ! Missing context ! */
+"airpurifier_more_show_legalnotice_text" = "Legal notice";
+
+/* ! Missing context ! */
+"airpurifier_more_show_cookies_text" = "Use of cookies";
+
+/* ! Missing context ! */
+"airpurifier_more_show_termsofuse_text" = "Terms of use";
+
+/* ! Missing context ! */
+"airpurifier_more_show_notifications_text" = "Notifications settings";
+
+/* ! Missing context ! */
+"airpurifier_more_show_agree_text" = "I agree";
+
+/* ! Missing context ! */
+"airpurifier_more_show_cookiestitle_text" = "Your choice about cookies";
+
+/* Formaldehyde concentration */
+"airpurifier_more_show_cookiestitleTwoitem_text" = "During the use of the application, cookies may be placed on your device. These cookies are used to store information and some are necessary to access certain contents and / or services of the application. Select your choice for each category of cookie then click on «Validate and continue». You can adjust your choices at any time from the page «Use of cookies» in the «Settings» section of the application.";
+
+/* ! Missing context ! */
+"airpurifier_more_show_cookiestitles_text" = "Hearing measures";
+
+/* ! Missing context ! */
+"airpurifier_more_show_cookiestitleitem_text" = "We use audience measurement solutions to analyze traffic, trends and usages and identify malfunctions on the application to improve your user experience.";
+
+/* ! Missing context ! */
+"airpurifier_adjust_show_modifycity_text" = "Modify The Display City";
+
+/* ! Missing context ! */
+"airpurifier_more_show_updatedevice_title" = "Update tip";
+
+/* ! Missing context ! */
+"airpurifier_more_show_updatedevice_content" = "The current version is %@, and you can update to version %@.";
+
+/* ! Missing context ! */
+"airpurifier_update_tip_msg_start" = "A new version is available, please update your current version";
+
+/* ! Missing context ! */
+"airpurifier_update_tip_goto" = "Update";
+
+/* ! Missing context ! */
+"airpurifier_update_tip_quit" = "Quit";
+
+/* ! Missing context ! */
+"airpurifier_outdoor_air_remind_f" = "The air outside is pure,\nOpen your windows";
+
+/* ! Missing context ! */
+"airpurifier_outdoor_air_remind_s" = "The outside air is highly polluted. If possible, avoid main roads : Going away from a few tens of meters can make a big difference !";
+
+/* ! Missing context ! */
+"airpurifier_outdoor_air_remind_t" = "The outside pollution is very high. Avoid intensive sport activities outside.\nAvoid main roads: Going away from a few tens of meters can make a big difference !";
+
+/* ! Missing context ! */
+"airpurifier_outdoor_air_remind_fo" = "Toxic air outside :( Stay inside as much as possible\nIn case of respiratory and cardiac discomfort, consult your doctor";
+
+/* ! Missing context ! */
+"airpurifier_upload_the_avatars" = "Picture uploading failed";
+
+/* ! Missing context ! */
+"airpurifier_avatars_for_failure" = "Avatars for failure";
+
+/* change password */
+"airpurifier_personal_updatePassword_success" = "Password successfully updated";
+
+/* ! Missing context ! */
+"airpurifier_personal_updatePassword_error" = "Failed to update password";
+
+/* Application name */
+"airpurifier_application_show_appname_text" = "Pure Air";
+
+/* Enter the password for 6 to 30 */
+"airpurifier_login_show_registerentercode_text" = "Minimum 8 characters, including 1 capital letter, 1 small letter, 1 number.";
+
+/* The two passwords don't match */
+"airpurifier_login_show_registercodenotconsistent_text" = "Your passwords don\'t match";
+
+/* Password is changed */
+"airpurifier_login_show_verifypwdsuccess_text" = "Password successfully changed";
+
+/* ! Missing context ! */
+"airpurifier_location_show_locationfailed_text" = "Geolocalisation failed";
+
+/* ifu */
+"airpurifier_ifuactivity_show_success_text" = "Success";
+
+/* ! Missing context ! */
+"airpurifier_ifuactivity_show_syncContent_text" = "Content synchronization";
+
+/* ! Missing context ! */
+"airpurifier_inactivity_show_Finishingactivityduetoinactivity_text" = "Finishing activity due to inactivity";
+
+/* ! Missing context ! */
+"airpurifier_login_show_invalidmail_toast" = "Invalid e-mail address";
+
+/* ! Missing context ! */
+"airpurifier_login_show_psdinfo_text" = "We have sent to your mailbox %@ a confirmation email, please check.";
+
+/* ! Missing context ! */
+"airpurifier_login_show_passwordresetfail_text" = "Failed to change password";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_demi_text" = "Demi";
+
+/* network anomaly */
+"airpurifier_login_show_registernetworkanomaly_text" = "Network error: check your internet connection";
+
+/* Please check the network environment! */
+"airpurifier_login_show_isnetwork_text" = "Please check the network environment!";
+
+/* Login successful */
+"airpurifier_login_show_tosloginsuccess_text" = "Successfully logged in";
+
+/* ! Missing context ! */
+"airpurifier_login_show_tospressagainexit_text" = "Click again to exit";
+
+/* No news */
+"airpurifier_more_show_tosnomsg_text" = "No news";
+
+/* This number is not registered */
+"airpurifier_login_show_tosphonenotregidter_text" = "This email is not registered";
+
+/* Registered successfully */
+"airpurifier_login_show_tosregistsuccessful_text" = "Registered successfully";
+
+/* ! Missing context ! */
+"airpurifier_selfcheck_check_title_text" = "Self-inspection mode";
+
+/* more */
+"airpurifier_more_show_invaliddevice_text" = "Invalid device";
+
+/* ! Missing context ! */
+"airpurifier_more_show_cancel_button" = "Cancel";
+
+/* Stop check */
+"airpurifier_more_show_checkend_text" = "Stop checking";
+
+/* Uploaded successfully */
+"airpurifier_more_show_uplode_success" = "Successfully uploaded";
+
+/* Upload failed */
+"airpurifier_more_show_uplode_failed" = "Upload failed";
+
+/* More and more */
+"airpurifier_more_show_titlemore_text" = "More";
+
+/* ! Missing context ! */
+"airpurifier_more_show_zero_text" = "0";
+
+/* A total of 2 equipment */
+"airpurifier_more_show_twodevice_text" = "No device";
+
+/* Mesh state */
+"airpurifier_more_show_sievestate_text" = "Filter condition";
+
+/* With reference to air quality standards */
+"airpurifier_more_show_airqualitystandardconsult_text" = "User guide";
+
+/* change password */
+"airpurifier_more_show_changepwd_text" = "Change password";
+
+/* Change Password title */
+"airpurifier_more_show_changepwdtitle_text" = "Change password";
+
+/* current password */
+"airpurifier_more_show_currentpwd_text" = "Current password";
+
+/* ! Missing context ! */
+"airpurifier_more_fragment_wifi1_text" = "1. Turn ON the product, then press the blue Wi-Fi button for 3 seconds.";
+
+/* ! Missing context ! */
+"airpurifier_more_fragment_wifi2_text" = "2. The product emits a “ding” and the Wi-Fi indicator flashes to indicate that the device is in configuration mode. ";
+
+/* ! Missing context ! */
+"airpurifier_more_fragment_wifi3_text" = "3. Enter the home Wi-Fi password.";
+
+/* Software version */
+"airpurifier_more_show_softversion_text" = "Software version";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_typeki_text" = "Rowenta XL in EU";
+
+/* poor */
+"airpurifier_more_show_poor_text" = "Bad";
+
+/* 1 bedroom */
+"airpurifier_moredevice_show_room1_text" = "Room 1";
+
+/* Configuration failed. Let's see here may be wrong: */
+"airpurifier_moredevice_show_configerrorseewhere_text" = "Configuration failed. Let\'s check the error:";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_runregularornot_text" = "(1) Is the device operating normally?";
+
+/* (2)The wi-fi network connection open? */
+"airpurifier_moredevice_show_wificonnectregular_text" = "(2) Is your Wi-Fi connection turned on?";
+
+/* Remove the binding equipment */
+"airpurifier_moredevice_show_unbinddevice_button" = "Remove the device binding";
+
+/* ! Missing context ! */
+"add_a_product" = "Add a product";
+
+/* ok */
+"airpurifier_moredevice_show_sure_button" = "OK";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_confirm_text" = "Confirm";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_refuse_text" = "Refuse";
+
+/* Please enter a name */
+"airpurifier_moredevice_show_hintwifi_hint" = "Account";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_modulenumber_text" = "%@";
+
+/* Qr code scanning device, supor add equipment for you */
+"airpurifier_barcode_show_laser_tip" = "Scan the QR code located behind your purifier";
+
+/* ! Missing context ! */
+"airpurifier_notification_show_title_text" = "Title";
+
+/* ! Missing context ! */
+"airpurifier_notification_show_message_text" = "Message";
+
+/* (Hey hey, secretly listen to tell you, I am a custom) */
+"airpurifier_notification_show_content_text" = "custom message";
+
+/* ! Missing context ! */
+"airpurifier_more_show_tenminutsstartsupor_text" = "We advise to open the air purifier in living room if there are ten minutes before off duty.";
+
+/* ! Missing context ! */
+"airpurifier_adjust_show_currentcity_text" = "Current City";
+
+/* ! Missing context ! */
+"airpurifier_adjust_show_none_text" = "None";
+
+/* ! Missing context ! */
+"airpurifier_socialize_show_useexistingaccountcomment_text" = "Use the existing account to comment";
+
+/* ! Missing context ! */
+"airpurifier_socialize_show_netloadfailed_text" = "Network load failed, please try again.";
+
+/* ! Missing context ! */
+"airpurifier_socialize_show_qqzone_text" = "QQqzone";
+
+/* ! Missing context ! */
+"airpurifier_more_show_needchange_text" = "Need to change";
+
+/* ! Missing context ! */
+"airpurifier_dialog_show_cue_text" = "prompt";
+
+/* Open the purifier to success */
+"airpurifier_more_show_opensupotrsuccess_text" = "Purifier successfully turned on";
+
+/* A new user */
+"airpurifier_more_show_newuser_text" = "New User";
+
+/* Please enter a nickname under 12 */
+"airpurifier_more_show_enternickname_text" = "Please input the nickname less than 12 letters";
+
+/* Please enter a nickname */
+"airpurifier_more_show_pleaseenternickname_text" = "Please enter the nickname";
+
+/* Please enter the device name */
+"airpurifier_more_show_pleaseenterdevicename_text" = "Please input device name";
+
+/* ! Missing context ! */
+"airpurifier_more_show_suredeletemember_text" = "Are you sure you want to delete \"%@\"?";
+
+/* Have no legal power */
+"airpurifier_more_show_noauthority_text" = "Not allowed";
+
+/* Equipment binding Equipment */
+"airpurifier_more_show_binddevice_text" = "Bind Device";
+
+/* Unbundling success */
+"airpurifier_more_show_ubbindsuccess_text" = "Successfully removed";
+
+/* Unbundling failure */
+"airpurifier_more_show_ubbindfailed_text" = "Unsuccessfully removed";
+
+/* Cancel to share success */
+"airpurifier_more_show_cancelsharesuccess_text" = "Cancel sharing successfully";
+
+/* Cancel the sharing failure */
+"airpurifier_more_show_cancelsharefailed_text" = "Cancel sharing unsucessfully";
+
+/* Sharing of success */
+"airpurifier_moredevice_show_sharesuccessful_text" = "Successfully shared";
+
+/* The user does not exist */
+"airpurifier_moredevice_show_usernotexist_text" = "The user does not exist";
+
+/* Please enter a correct phone number */
+"airpurifier_moredevice_show_pleaseenterrightphone_text" = "Please enter correct email";
+
+/* Successfully adding timing */
+"airpurifier_more_show_adddingtimesuccess_text" = "Schedule successfully added";
+
+/* Modify the timing success */
+"airpurifier_more_show_verifydingtimesuccess_text" = "Planning successfully modified";
+
+/* Timing was removed successfully */
+"airpurifier_more_show_deletedingtimesuccess_text" = "Planning successfully deleted";
+
+/* Open the timing success */
+"airpurifier_more_show_open_dingtime_success_text" = "Planning successfully turned on";
+
+/* Closing time success */
+"airpurifier_more_show_closedingtimesuccess_text" = "Planning successfully turned off";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_bindsuccessfuly_text" = "Successfully paired";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_bindfailed_text" = "Pairing failed";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_qrcodeidwrong_text" = "QR code is wrong";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_qrcodeisoverdue_text" = "QR code has expired";
+
+/* ! Missing context ! */
+"airpurifier_moredevice_show_additionfailed_text" = "Addition failed";
+
+/* ! Missing context ! */
+"airpurifier_more_show_theleft_text" = "The left";
+
+/* ! Missing context ! */
+"airpurifier_more_show_getit_text" = "Get it";
+
+/* ! Missing context ! */
+"airpurifier_more_show_scanqrcode_text" = " Scan QR code";
+
+/* ! Missing context ! */
+"airpurifier_more_show_callconfirm_text" = "Are you sure you want to call \"%@\"?";
+
+/* ! Missing context ! */
+"airpurifier_more_show_updatetipmsg_text" = "The current version is V%@,";
+
+/* ! Missing context ! */
+"airpurifier_more_show_nodevice_text" = "No device";
+
+/* ! Missing context ! */
+"airpurifier_more_show_noscheduling_text" = "No scheduling";
+
+/* ! Missing context ! */
+"airpurifier_more_show_cancelword_text" = "Cancel";
+
+/* ! Missing context ! */
+"airpurifier_more_show_cookiesmsg_text" = "Pure Air uses notifications to send you alerts of indoor and outdoor pollution peaks, and to give you relevant advices to breathe pure air at any time.";
+
+/* ! Missing context ! */
+"airpurifier_more_show_notification_text" = "Settings of notifications";
+
+/* ! Missing context ! */
+"airpurifier_more_show_personaldatapolicy_text" = "Personal data policy";
+
+/* ! Missing context ! */
+"airpurifier_more_show_legals_text" = "Legal notice";
+
+/* ! Missing context ! */
+"airpurifier_more_show_ifu_title" = "User guide";
+
+/* ! Missing context ! */
+"airpurifier_login_show_more_text" = "More";
+
+/* ! Missing context ! */
+"airpurifier_more_show_preference_text" = "Preference";
+
+/* ! Missing context ! */
+"airpurifier_more_show_legal_text" = "Legal";
+
+/* ! Missing context ! */
+"airpurifier_more_show_filtertitile_text" = "Filter replacement reminder";
+
+/* ! Missing context ! */
+"airpurifier_more_show_filteritem_text" = "Composite";
+
+/* ! Missing context ! */
+"airpurifier_more_show_filteritemone_text" = "filter of your ";
+
+/* ! Missing context ! */
+"airpurifier_more_show_filteritemtwo_text" = "has been working";
+
+/* ! Missing context ! */
+"airpurifier_more_show_filteritemthree_text" = "\thours and it has been consumed by";
+
+/* ! Missing context ! */
+"airpurifier_percentage" = "%";
+
+/* ! Missing context ! */
+"airpurifier_more_show_pmtitle_text" = "We advise you to turn you purifier on";
+
+/* ! Missing context ! */
+"airpurifier_more_show_pmitem_text" = "The air quality of ";
+
+/* ! Missing context ! */
+"airpurifier_more_show_pmitem_text2" = " is poor. We advise you to limit oudoor activities and turn on your air purifier";
+
+/* ! Missing context ! */
+"airpurifier_more_show_pmitems_text" = "We advise you to limit outdoor activities.";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_tvno2" = "NO₂";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_tvpm25" = "PM2.5";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_tvo3" = "O₃";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_tvpm10" = "PM10";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_pm25" = "PM2.5 refers to particles with diameter smaller than 2.5 microns that can easily penetrate the membrane of lung cells. ";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_o3" = "O₃ is a form of oxygen that has three atoms per molecule rather than the usual two. When it is in the upper atmosphere it absorbs ultraviolet rays, hereby being a lifesaver. However, near the earth\'s surface it is a harmful pollutant which contributes to respiratory diseases such as asthma.";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_no2" = "NO₂ (Nitrogen Dioxide) is part of a group of highly reactive gases and primarily gets in the air from the burning of fuel. Breathing air with a high concentration of NO₂ can irritate airways in the human respiratory system.";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_pm10" = "PM10 refers to particles with diameter smaller than 10 microns.";
+
+/* ! Missing context ! */
+"airpurifier_no_camera_permission" = "No camera permission: please go to the settings to activate it";
+
+/* ! Missing context ! */
+"airpurifier_no_storage_permission" = "No storage permission: please go to the settings to activate it";
+
+/* ! Missing context ! */
+"airpurifier_no_phone_permission" = "No phone permission: please go to the settings to activate it";
+
+/* ! Missing context ! */
+"airpurifier_update_tip_title" = "Update tip";
+
+/* ! Missing context ! */
+"airpurifier_update_tip_msg2" = " and you can update to version V%@";
+
+/* ! Missing context ! */
+"airpurifier_update_success" = "Successfully updated";
+
+/* ! Missing context ! */
+"airpurifier_update_failed" = "Failed to update";
+
+/* ! Missing context ! */
+"airpurifier_outdoor_airquality_notification_1_a" = "The outside air is pure. Enjoy outdoor activities!";
+
+/* ! Missing context ! */
+"airpurifier_outdoor_airquality_notification_1_b" = "The outside air is pure. Open your windows!";
+
+/* ! Missing context ! */
+"airpurifier_outdoor_airquality_notification_3_a" = "The outside pollution is high. Avoid intensive outdoor sport activities.";
+
+/* ! Missing context ! */
+"airpurifier_outdoor_airquality_notification_3_b" = "The outside air is polluted. If possible, avoid main roads: going away from a few tens of meters can make a big difference!";
+
+/* ! Missing context ! */
+"airpurifier_outdoor_airquality_notification_4_a" = "The outside pollution is very high. Avoid intensive outdoor sport activities.";
+
+/* ! Missing context ! */
+"airpurifier_outdoor_airquality_notification_4_b" = "The outside pollution is very high. Avoid main roads: going away from a few tens of meters can make a big difference!";
+
+/* ! Missing context ! */
+"airpurifier_outdoor_airquality_notification_5_a" = "Toxic air :-(\nStay inside as much as possible";
+
+/* ! Missing context ! */
+"airpurifier_outdoor_airquality_notification_5_b" = "In case of respiratory and cardiac discomfort, consult your doctor";
+
+/* loading... */
+"airpurifier_personal_loading" = "File uploading...";
+
+/* ! Missing context ! */
+"circle_pm25_des" = "FINE PARTICLES & ALLERGENS";
+
+/* ! Missing context ! */
+"pm25_unit" = "μg/m3";
+
+/* ! Missing context ! */
+"circle_gas_des" = "GAS";
+
+/* ! Missing context ! */
+"air_quality_A" = "PURE AIR";
+
+/* ! Missing context ! */
+"firmware_version" = "Firmware Version";
+
+/* ! Missing context ! */
+"start" = "Start";
+
+/* ! Missing context ! */
+"aplink_p2" = "Make sure that your phone is connected to your home Wi-Fi network.";
+
+/* ! Missing context ! */
+"need_connect_wifi" = "You are not connected to your home Wi-Fi network yet. Please connect your smartphone to the Wi-Fi.\n";
+
+/* ! Missing context ! */
+"know" = "I get it";
+
+/* ! Missing context ! */
+"select_product" = "Select device";
+
+/* ! Missing context ! */
+"aplink_p4" = "Turn your purifier on.";
+
+/* ! Missing context ! */
+"next" = "Next";
+
+/* ! Missing context ! */
+"active_wifi" = "Active Wi-Fi";
+
+/* ! Missing context ! */
+"aplink_p5" = "Hold the Wi-Fi button during 3 seconds, you will hear a double ding and the Wi-Fi button flashes to indicate that the Wi-Fi is ON.";
+
+/* ! Missing context ! */
+"turn_on" = "Turn on the product";
+
+/* ! Missing context ! */
+"fragment_p6_title" = "Connect to purifier";
+
+/* ! Missing context ! */
+"aplink_p6" = " 1) Go in your Wi-Fi settings and wait for the network called AIR PURIFIER XXXX to appear\n 2) Connect to the network according to info on the sticker of rear housing\n 3) Come back on the application Pure Air.";
+
+/* ! Missing context ! */
+"aplink_p6_bt_text" = "Go to Wi-Fi settings";
+
+/* ! Missing context ! */
+"connect" = "Connecting...";
+
+/* ! Missing context ! */
+"aplink_p8" = "Perfect, you\'re almost done…";
+
+/* ! Missing context ! */
+"name" = "Name";
+
+/* ! Missing context ! */
+"password" = "Password";
+
+/* ! Missing context ! */
+"aplink_desc_p9" = "Check if the Wi-Fi is your home Wi-Fi hotspot and enter the password";
+
+/* ! Missing context ! */
+"fragment_p9_title" = "Connect to home Wi-Fi";
+
+/* ! Missing context ! */
+"aplink_p9_bt" = "Add new device";
+
+/* ! Missing context ! */
+"aplink_p10" = "Your purifier is connecting with your home Wi-Fi network…";
+
+/* ! Missing context ! */
+"adresse_mac" = "MAC address";
+
+/* ! Missing context ! */
+"devicename" = "Device name";
+
+/* ! Missing context ! */
+"confirm" = "Confirm";
+
+/* ! Missing context ! */
+"aplink_p13_desc" = "Now your purifier can be connected to internet without your smartphone. Control your purifier from anywhere thanks to Pure Air app!";
+
+/* ! Missing context ! */
+"ok" = "OK";
+
+/* ! Missing context ! */
+"fragment_p12_title" = "Name your purifier";
+
+/* ! Missing context ! */
+"fragment_p13_title" = "Congratulations!";
+
+/* ! Missing context ! */
+"aplink_p15_desc" = "Oops! Your application is not connected to the Wi-Fi network \"AIR PURIFIER\".";
+
+/* ! Missing context ! */
+"fragment_p15_title" = "Connection to purifier failed";
+
+/* ! Missing context ! */
+"fragment_p14_one" = "Check if the password you entered is correct";
+
+/* ! Missing context ! */
+"fragment_p14_two" = "Check if the Wi-Fi is working at your home";
+
+/* ! Missing context ! */
+"fragment_p14_three" = "If the Wi-Fi indicator on your purifier is no longer flashing, hold the Wi-Fi button for 3 seconds.";
+
+/* ! Missing context ! */
+"fragment_p14_four" = "If nothing is working, try to restart the device and start again.";
+
+/* ! Missing context ! */
+"aplink_p11" = "Your purifier is now connected with your home Wi-Fi network.";
+
+/* ! Missing context ! */
+"link_wifi_name_error" = "Please connect to the specified Wi-Fi network";
+
+/* ! Missing context ! */
+"aplink_p1" = "You do not have any device linked to your account.";
+
+/* ! Missing context ! */
+"fail" = "Failed to change device name";
+
+/* ! Missing context ! */
+"moderate" = "MODERATE";
+
+/* ! Missing context ! */
+"pollution" = "POLLUTION";
+
+/* ! Missing context ! */
+"high" = "HIGH";
+
+/* ! Missing context ! */
+"aplink_p12" = "You can give a name to your purifier.";
+
+/* ! Missing context ! */
+"device_list_fail" = "Cannot get product type: please check your internet connection";
+
+/* ! Missing context ! */
+"aplink_success" = "APLink Success";
+
+/* ! Missing context ! */
+"aplink_fail" = "APlink fail";
+
+/* ! Missing context ! */
+"binddevice_fail" = "BindDevice Fail";
+
+/* ! Missing context ! */
+"XL_default_name" = "Intense Pure Air XL Connect";
+
+/* ! Missing context ! */
+"xs_default_name" = "Intense Pure Air Connect";
+
+/* ! Missing context ! */
+"psw_not_empty" = "password not empty";
+
+/* ! Missing context ! */
+"not_found" = "Not found";
+
+/* ! Missing context ! */
+"input_password" = "Input password";
+
+/* ! Missing context ! */
+"relocation" = "Geo-Tracking";
+
+/* ! Missing context ! */
+"airpurifier_more_mydevice_device_name" = " ";
+
+/* ! Missing context ! */
+"placeholder" = "%@";
+
+/* ! Missing context ! */
+"airpurifier_more_show_nickname_hint" = "Input nickname";
+
+/* ! Missing context ! */
+"airpurifier_more_devices" = "Devices";
+
+/* ! Missing context ! */
+"airpurifier_more_userinfomation_user_guide" = "User guide";
+
+/* ! Missing context ! */
+"airpurifier_more_userinfomation_FAQ" = "FAQ";
+
+/* ! Missing context ! */
+"airpurifier_more_userinfomation" = "Information";
+
+/* ! Missing context ! */
+"airpurifier_more_contact_us" = "Help: contact us";
+
+/* ! Missing context ! */
+"airpurifier_get_country_list_fail" = "Failed to get the list of cities: please check your Internet connection";
+
+/* ! Missing context ! */
+"airpurifier_failed_get_device_list" = "Failed to get the list of devices: please check your Internet connection";
+
+/* ! Missing context ! */
+"airpurifier_faq_failed_get_data" = "Failed to retrieve data: please check your Internet connection";
+
+/* ! Missing context ! */
+"airpurifier_regist_fail" = "Failed to register";
+
+/* ! Missing context ! */
+"airpurifier_login_fail" = "Failed to login";
+
+/* ! Missing context ! */
+"airpurifier_regist_login_fail" = "Your account is created successfully. Please press ‘OK’ to go to the login page.\n \n";
+
+/* ! Missing context ! */
+"airpurifier_loading" = "Loading, please hold on…";
+
+/* ! Missing context ! */
+"airpurifier_no_peimission" = "Check that the location permission in your settings is activated.";
+
+/* ! Missing context ! */
+"airpurifier_aplink_request_permission_tip" = "Android may ask for a permission to connect with your product successfully. Please accept.";
+
+/* ! Missing context ! */
+"airpurifier_aplink_fail_about_permission" = "Check in your settings that the location permission is activated.";
+
+/* ! Missing context ! */
+"airpurifier_add_shchedule_tip" = "If you set the starting time earlier than the current time, your scheduling will start the next day.";
+
+/* ! Missing context ! */
+"airpurifier_more_show_filtercondition_content_key" = "Filter condition";
+
+/* ! Missing context ! */
+"no_permission" = "No permission";
+
+/* ! Missing context ! */
+"prefilter" = "Pre-filter";
+
+/* ! Missing context ! */
+"active_carbon" = "Active carbon filter";
+
+/* ! Missing context ! */
+"hepa" = "Allergy+ filter";
+
+/* ! Missing context ! */
+"nanocapur" = "NanoCaptur filter";
+
+/* ! Missing context ! */
+"umeng_message_alert_choose_ok" = "OK";
+
+/* ! Missing context ! */
+"immediately_turn_on" = "Turn on now";
+
+/* ! Missing context ! */
+"no_more_warn" = "No more warning";
+
+/* ! Missing context ! */
+"to_change" = "To be changed";
+
+/* ! Missing context ! */
+"UmengMessageAlertDialog_content_one" = "Your device";
+
+/* ! Missing context ! */
+"UmengMessageAlertDialog_content_two" = "filter has consumed above";
+
+/* ! Missing context ! */
+"UmengMessageAlertDialog_content_three" = "%. In order to ensure a good air purification quality, please change it.";
+
+/* ! Missing context ! */
+"severe_pollution" = "Highly polluted";
+
+/* ! Missing context ! */
+"umeng_message_alert_excellent" = "Excellent";
+
+/* ! Missing context ! */
+"umeng_message_alert_good" = "Good";
+
+/* ! Missing context ! */
+"umeng_message_alert_terrible" = "Bad";
+
+/* ! Missing context ! */
+"umeng_message_alert_advises" = "We advise you to turn on your air purifier";
+
+/* ! Missing context ! */
+"umeng_message_alert_off_duty" = "Off";
+
+/* ! Missing context ! */
+"umeng_message_alert_on_duty" = "On";
+
+/* ! Missing context ! */
+"umeng_message_alert_content_four" = "We advise you to turn on your air purifier";
+
+/* ! Missing context ! */
+"umeng_message_alert_content_five" = "if there are ten minutes before\n";
+
+/* ! Missing context ! */
+"umeng_message_alert_choose_cancel" = "Cancel";
+
+/* ! Missing context ! */
+"umeng_message_alert_current_air_quality" = "Current air quality";
+
+/* ! Missing context ! */
+"logout_failed" = "Logout failed";
+
+/* ! Missing context ! */
+"airpurifier_user_agreement_content" = "and the personal data policy.";
+
+/* ! Missing context ! */
+"request_permission_tip" = "Wifi and location must be enabled";
+
+/* ! Missing context ! */
+"request_permission_has" = "WiFi and location are enabled";
+
+/* ! Missing context ! */
+"request_permission_titile" = "WiFi and location";
+
+/* ! Missing context ! */
+"request_permission_wifi_online" = "WiFi enabled";
+
+/* ! Missing context ! */
+"request_permission_wifi_offline" = "WiFi disabled";
+
+/* ! Missing context ! */
+"request_location_has" = "Location enabled";
+
+/* ! Missing context ! */
+"request_location_no" = "Location disabled";
+
+/* ! Missing context ! */
+"request_location_wifi_button" = "Activate WiFi";
+
+/* ! Missing context ! */
+"request_location_location_button" = "Enable location";
+
+/* ! Missing context ! */
+"request_location_location_and_wifi" = "Next";
+
+/* ! Missing context ! */
+"request_permission_more_info_title" = "More information";
+
+/* ! Missing context ! */
+"request_permission_more_info2" = "During this process, it will have to use the location permission to obtain information about nearby WiFi networks.";
+
+/* ! Missing context ! */
+"request_permission_more_info1" = "The pairing with the product is made using your local WiFi network. The product will use the WiFi from your phone to connect with your Internet box.";
+
+/* ! Missing context ! */
+"request_permission_can_next_text" = "Your device is ready for pairing. You can tap \"Next\".";
+
+/* ! Missing context ! */
+"password_not_secured_enough" = "Your password is not secured enough. Choose a more complex password : avoid name, last name, e-mail…";
+
+/* ! Missing context ! */
+"locate_fail" = "Locate fail";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_moderate_new" = "MODERATE\nPOLLUTION";
+
+/* ! Missing context ! */
+"airpurifier_more_airquality_high_new" = "HIGH\nPOLLUTION";
+
+/* ! Missing context ! */
+"airpurifier_connect_fail_retry" = "Retry";
+
+/* ! Missing context ! */
+"airpurifier_login_show_personalDataPolicy_text" = "and the personal data policy";
+
+/* ! Missing context ! */
+"Reigist_Changepwd_errorcode_2015_toast_text" = "Your password is not secured enough. Choose a more complex password: avoid name, last name, e-mail…";
+
+/* ! Missing context ! */
+"airpurifier_cropimage_show_cropsaving_text" = "Saving picture…";
+
+/* ! Missing context ! */
+"airpurifier_cropimage_show_cropwait_text" = "Please wait…";
+
+/* ! Missing context ! */
+"airpurifier_crop_show_pick_error_text" = "No image sources available";
+
+/* ! Missing context ! */
+"airpurifier_crop_show_done_text" = "OK";
+
+/* ! Missing context ! */
+"airpurifier_crop_show_cancel_text" = "Cancel";
+
+/* ! Missing context ! */
+"airpurifier_more_show_cookiestitle2item_text" = "During the use of the application, cookies may be  placed on your mobile. These cookies serve to store information and some are nessary to access certaion contents and / or services of the application. Select your choice. You can adjust your choice at any time from the page 《Use of cookies》in the 《Settings》section of the application.";
+

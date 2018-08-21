@@ -1,0 +1,12 @@
+
+// app name
+CFBundleDisplayName = "Pure Air";
+// Camera permissions
+NSCameraUsageDescription  = "Consenti all’applicazione di utilizzare la fotocamera?";
+// PhotoLibrary permissions
+NSPhotoLibraryUsageDescription = "Consenti all’applicazione di utilizzare l'album di foto?";
+
+NSLocationAlwaysUsageDescription                        = "Le informazioni sulla posizione vengono utilizzate per mostrare la qualità dell'aria nella tua città";
+NSLocationWhenInUseUsageDescription                     = "Le informazioni sulla posizione vengono utilizzate per mostrare la qualità dell'aria nella tua città";
+NSLocationAlwaysAndWhenInUseUsageDescription            = "Le informazioni sulla posizione vengono utilizzate per mostrare la qualità dell'aria nella tua città";
+NSLocationUsageDescription                              = "Le informazioni sulla posizione vengono utilizzate per mostrare la qualità dell'aria nella tua città";

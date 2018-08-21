@@ -1,0 +1,12 @@
+
+// app name
+CFBundleDisplayName = "Pure Air";
+// Camera permissions
+NSCameraUsageDescription  = "確定允許應用程式使用您的相機？";
+// PhotoLibrary permissions
+NSPhotoLibraryUsageDescription = "確定允許應用程式使用您的圖片庫？";
+
+NSLocationAlwaysUsageDescription                        = "您的位置資訊將用以顯示您身處城市的空氣質素";
+NSLocationWhenInUseUsageDescription                     = "您的位置資訊將用以顯示您身處城市的空氣質素";
+NSLocationAlwaysAndWhenInUseUsageDescription            = "您的位置資訊將用以顯示您身處城市的空氣質素";
+NSLocationUsageDescription                              = "您的位置資訊將用以顯示您身處城市的空氣質素";

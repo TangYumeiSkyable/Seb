@@ -1,0 +1,423 @@
+
+// Scan the qr code
+"airpurifier_cm_san_qrcode" = "Scan QR code of device ,and SEB will add equiment for you.";
+"airpurifier_cm_san_qrcode_msg" = "Please in \"privacy Settings - - camera \" option, allowing supor access to your camera.";
+
+/*
+ public
+ */
+"airpurifier_public_ok" = "OK";
+"airpurifier_public_cancel" = "Cancel";
+"airpurifier_public_refuse" = "Refuse";
+"airpurifier_public_confirm" = "Confirm";
+"airpurifier_public_nodata" = "No Data";
+"airpurifier_public_fail" = "fail";
+"airpurifier_public_success" = "success";
+
+/*
+ login
+ */
+"airpurifier_login_cookies_title" = "Cookies";
+"airpurifier_login_cookies_msg_ios" = "By clicking <OK>, you agree to use of audience measurement cookies to enhance your user experience.";
+"airpurifier_login_cookies_more" = "More";
+"airpurifier_login_show_forgetpwd_text" = "Forget Password";
+// Registered users
+"airpurifier_login_show_register_text"  = "Registered User";
+// The login
+"airpurifier_login_show_button_text"  = "Sign In";
+// Please enter your phone number
+"airpurifier_login_show_email_hint" = "Input email address";
+"airpurifier_login_show_pwd_hint" = "Input password";
+// Account or password is not correct
+"airpurifier_login_show_toswrongpwdaccount_text" = "Account or password is not right";
+"airpurifier_login_show_tosneterror_text" = "Network connection error";
+// Are logged in, please wait...
+"airpurifier_login_show_toslogining_text" = "Being logged in, please hold on...";
+// Enter the password for 6 to 30
+"airpurifier_login_show_registepasswordrule_text" = "minimum 8 characters, and in it all the following elements have to be included:1 block capital, 1 small letter, 1 number.";
+"airpurifier_login_show_email_text" = "E-mail";
+"airpurifier_login_show_currentpassword_text" = "Current Password";
+"airpurifier_login_show_pwd_text" = "Password";
+"airpurifier_login_show_button_submittext" = "Submit";
+// This number has been registered
+"airpurifier_login_show_registertosphonealreadyregidter_text" = "This account has been registered";
+// Mobile phone number is invalid
+"airpurifier_login_show_registertosinvalidphonenumber_text" = "Wrong email address";
+"airpurifier_login_show_registerwelcome_text" = "Welcom to be SEB new user! Please firstly read the agreement and confirm to accept it.";
+"airpurifier_login_show_register_agreementtitle_text" = "SEB User Agreement";
+"airpurifier_login_show_registeracceptagreement_text" = "Confirm to accept agreement";
+"airpurifier_login_show_registerreadagreement_text" = "     I have read and accept the SEB User Agreement.";
+"airpurifier_login_show_registeconfirmpwd_text" = "Confirm Password";
+"airpurifier_login_show_changepassword_text" = "Reset Password";
+"airpurifier_login_show_login_text" = "LOGIN";
+// Retrieve password
+"airpurifier_login_show_reset_title_text" = "Get Back Password";
+// Registration failed
+"airpurifier_login_show_registertosregistfailed_text" = "Login has failed";
+// Email address verification
+"airpurifier_login_show_psdinfo_text_ios" = "We have sent to your mailbox %@ Send a confirmation email , please go to verify.";
+"airpurifier_login_show_tosnodevice_text" = "No device";
+
+/*
+ register
+ */
+"airpurifier_register_show_registertext_title" = "Register";
+"airpurifier_register_findpwd" = "Retrieve Password";
+"airpurifier_register_show_pwd_placeholder" = "Input Here";
+"airpurifier_register_show_inputemailaddress_hint" = "Input email address";
+
+/*
+ home
+ */
+// You haven't connected devices
+"airpurifier_more_show_havenodevice_text" = "You haven't connect the device";
+"airpurifier_more_show_rightcovers_text" = "The left & right covers are open, please check it!";
+"airpurifier_more_show_deviceFailure_text" = "Device failure";
+"airpurifier_more_show_settings_text" = "Settings";
+"airpurifier_more_show_nothank_text" = "No thank you";
+
+// Open the booking
+"airpurifier_dialog_show_openopintment_text" = "  Start reservation  ";
+// Set up time
+"airpurifier_dialog_show_slidingremind_text" = "Sliding around can switch different equipment";
+
+/*
+ personInfo
+ */
+// Head portrait
+"airpurifier_more_show_head_text" = "Avatar";
+"airpurifier_more_show_nickname_text" = "NickName";
+"airpurifier_more_show_change_password_text" = "Change password";
+"airpurifier_more_show_area" = "Space Area of Device";
+"airpurifier_more_show_start" = "Start";
+"airpurifier_more_show_end" = "End";
+"airpurifier_more_show_worktime" = "Workdays";
+// xit from the current account
+"airpurifier_more_show_exitcurrentaccount_text" = "Exit Current Account";
+"airpurifier_more_show_areyousureexit_text" = "Are you sure to exit?";
+// Improve the personal information
+"airpurifier_more_show_personaltitle_text"  = "Complete Personal Information";
+// Taking pictures
+"airpurifier_more_show_takephoto_text" = "Take a picture";
+// From the album to choose
+"airpurifier_more_show_selectfromalbum_text" = "Select from album";
+
+/*
+ change
+ */
+"airpurifier_more_show_modifyName_title" = "Modify Nickname";
+// Please enter a name
+"airpurifier_more_show_modifyname_hint" = "Input device name";
+"airpurifier_more_show_modifyname_comfirm_ios" = "Confirm change";
+"airpurifier_more_show_modifyname_fail_ios" = "Modify the failure";
+
+/*
+ push
+ */
+// push filter info
+"airpurifier_push_lv_alert_content_ios" = "Your %@ %@ filter has consumed above %@%%. In order to keep pure quality, please change it timely.";
+// open air purifier
+"airpurifier_push_pm_alert_content_ios" = "Advise to open air purifier";
+"airpurifier_push_pm_alert_title_ios" = "Current Air Quality";
+"airpurifier_push_home_you_ios" = "Excellent";
+"airpurifier_push_show_poor_text_ios" = "Bad";
+"airpurifier_push_qing_ios" = "Slightly Polluted";
+"airpurifier_push_zhong_ios" = "Severely Polluted";
+"airpurifier_push_zhongdu_ios" = "Severe Pollution";
+"airpurifier_push_alert_pm_no" = "No more warn";
+"airpurifier_push_alert_pm_yes" = "Turn on immediately";
+"airpurifier_push_alert_lv_yes" = "To change";
+"airpurifier_push_msg" = "We advise to open the air purifier if there are %@ minutes before %Off Duty";
+// push on or offf
+"airpurifier_more_show_open_text" = " On";
+"airpurifier_more_show_close_text" = " Off";
+
+/*
+ more
+ */
+"airpurifier_more_show_preferences_text" = "Preferences & Legal Issues";
+// A total of
+"airpurifier_more_show_gong_text" = "has ";
+"airpurifier_more_show_gongdevice_text" = " device";
+"airpurifier_more_show_myorder_text" = "My scheduling";
+"airpurifier_more_show_mynews_text" = "My News";
+// Set up time
+"airpurifier_more_show_setbusinesstime_text" = "Set up working time";
+"airpurifier_more_open_ios" = "Turned On";
+"airpurifier_more_close_ios" = "Turned Off";
+// Free service hotline
+"airpurifier_more_show_freeaftersaleshotline_text" = "Free hotline after sales";
+// After-sales service network
+"airpurifier_more_show_aftersalesservicenetwork_text" = "Service network after sales";
+"airpurifier_more_show_setting_title" = "Setting";
+"airpurifier_more_nomsg_hint_ios" = "No Message";
+"airpurifier_more_show_theifuofproduct_text" = "The \"IFU\" of product";
+// Make a phone call
+"airpurifier_more_show_callconfirm_text_ios" = "Are you sure to call \"%@\"?";
+
+/*
+ device
+ */
+// Equipment management
+"airpurifier_moredevice_show_mydevice_title" = "My Device";
+"airpurifier_moredevice_show_type_text" = "Model Number:Rowenta XL in EU";
+"airpurifier_more_show_devicemodelnumber_text" = "Model Number: %@";
+// Equipment information
+"airpurifier_moredevice_show_deviceinfo_text" = "Device Information";
+"airpurifier_moredevice_show_devicecode_text" = "Device QR Code";
+// Equipment qr code
+"airpurifier_more_show_sureremovebinddevice_text" = "Remove the binding device";
+"airpurifier_more_show_warning_text" = "WARNING";
+"airpurifier_moredevice_show_permissions_hint_ios" = "No Permissions";
+// Members of the management
+"airpurifier_moredevice_show_membermenage_text" = "Information on sharing";
+// delete name
+"airpurifier_moredevice_show_delete_device_ios" = "Is it sure to remove the binding of equipment named \"%@\"?";
+"airpurifier_moredevice_show_delete_user_ios" = "Are you sure to delete \"%@\"";
+"airpurifier_moredevice_show_devicemac_text" = "Mac add";
+"airpurifier_moredevice_show_controlfailed_text" = "control failed";
+// Network anomalies
+"airpurifier_moredevice_show_netnormal_text" = "Network abnormally";
+// Scan the qr code
+"airpurifier_moredevice_show_scanqrcode_text" = "Scan QR Code";
+// Manually add
+"airpurifier_moredevice_show_manuallyadd_text" = "Manually Add";
+"airpurifier_moredevice_show_deviceList_title" = "My Devices";
+// Air purifier KJ600G_530 SUPOR
+"airpurifier_more_show_suporttreater_text" = "Supor air purifier %@";
+
+/*
+ Add Device
+ */
+"airpurifier_moredevice_show_errqrcode_ios" = "The wrong qr code";
+"airpurifier_moredevice_show_addfail_ios" = "Add failure";
+"airpurifier_moredevice_show_addsuccess" = "Add success";
+"airpurifier_moredevice_show_validate_ios" = "Qr code has been overdue";
+// Select models
+"airpurifier_moredevice_show_choose_type" = "Select the \n model";
+// WIFI Settings
+"airpurifier_moredevice_show_wifi_set" = "WIFI \n setting";
+// Equipment binding
+"airpurifier_moredevice_show_device_bind" = "Device \n binding";
+"airpurifier_moredevice_show_category_ios" = "Choose the type";
+// Work mode, long press light regulation and at the same time in the equipment side mesh Settings key 3 seconds (pictured above), the equipment after the "ding" 1, the WIFI light flash indicates that the equipment has to enter configuration mode.Type in the name wi-fi password, then click start configuration.
+"airpurifier_moredevice_show_usemethod_text" = "1.	Turn ON the product, then press the blue Wi-Fi button for 3 seconds.\n2.	The product emits a “ding” and Wi-Fi indicator flashes to indicate that the device is in configuration mode.\n3.	Check on the APP screen if the Wi-Fi detected is your Wi-Fi box and enter its password.";
+"airpurifier_moredevice_show_hint_ios" = "Configuration is failed. Let\'s check where is the problem:\n(1) Is the device operating normally?\n(2) Is the Wi-Fi network well connected?";
+// network is not available
+"airpurifier_moredevice_show_network_error_ios" = "The current network is not available, please check the network Settings";
+// Add a new device
+"airpurifier_moredevice_show_addnewdevice_text" = "Add New Device";
+// The name of the
+"airpurifier_moredevice_show_name_text" = "Name";
+"airpurifier_moredevice_show_wifipwd_text" = "Password";
+// Please remove the power supply equipment, connected the power again, and then click retry.
+"airpurifier_moredevice_show_pullelectricretry_text" = "Please remove the power supply of device and connected power to try again.";
+// I want to try again
+"airpurifier_moredevice_show_retry_text" = "Try again";
+// Scan the qr code to add
+"airpurifier_moredevice_show_scanqrcode_add" = "Scan QR code to add it";
+"airpurifier_more_show_modifydevicename_title" = "Device name";
+// The MAC address:
+"airpurifier_moredevice_show_macaddress_text" = "MAC Address";
+"airpurifier_moredevice_show_start_config_ios" = "Start Configuration";
+// Is the search equipment please wait patiently.
+"airpurifier_moredevice_show_searchdevicewait_text" = "Searching device, please be patient.";
+
+/*
+ no device
+ */
+"airpurifier_more_nodevice_hint_ios" = "No Equipment";
+"airpurifier_moredevice_show_adddevice_text" = "Add device";
+// Check the network
+"airpurifier_more_show_checkwifi_text" = "Please check if your smartphone is well connected to the WIFI to which you will connect your air purifler.";
+
+/*
+ share
+ */
+"airpurifier_more_show_shareqrcode_text" = "Sharing Qr Code Of Device";
+// Refresh automatically after 5 minutes
+"airpurifier_more_show_fiveminutesrefreshago_text" = "Refresh automatically after 5 minutes";
+// Through the mobile phone number to share
+"airpurifier_more_show_sharethroughphone_text" = "Sharing by email";
+// Cancel the alignment to share
+"airpurifier_more_show_cancelsharealign_text" = "Cancel share";
+"airpurifier_more_show_emailtip_text" = "Please correctly enter the e-mail address. The condition is that this user must have installed the application.";
+// Mobile phone number to share
+"airpurifier_moredevice_show_phoneshare_text" = "Share Email";
+// Sharing equipment failure
+"airpurifier_moredevice_show_devicesharefailed_text" = "Device Sharing Failed";
+"airpurifier_moredevice_show_sharetophone_hint" = "Please input email";
+
+/*
+ device name
+ */
+// Modify the nickname failure
+"airpurifier_more_show_virifynicknamefailed_text" = "Nickname modification failed";
+// Confirm the change
+"airpurifier_more_show_modifyname_button" = "Affirm modification";
+"airpurifier_more_show_modifyname_text" = "Input account";
+
+/*main*/
+// Formaldehyde concentration
+"airpurifier_more_show_olfactory_text" = "Formaldehyde Concentration";
+// Equipment is not online
+"airpurifier_moredevice_show_devicenotonline_text" = "Device is not online";
+// To make an appointment time overlap
+"airpurifier_more_show_appointmenttimeoverlap_text" = "Reservation time is overlapped";
+// The operation failure
+"airpurifier_more_show_operatorfailed_text" = "Operate unsuccessfully";
+
+/*
+ To make an appointment
+ */
+"airpurifier_more_show_addscheduling_text" = "Add Scheduling";
+"airpurifier_more_show_deleteword_text" = "Delete";
+"airpurifier_more_show_suretodelete_text" = "Are you sure to delete?";
+"airpurifier_more_show_saveword_text" = "Save";
+"airpurifier_more_show_sundayword_text" = "Sunday";
+"airpurifier_more_show_mondayword_text" = "Monday";
+"airpurifier_more_show_tuesdayword_text" = "Tuesday";
+"airpurifier_more_show_wednesdayword_text" = "Wednesday";
+"airpurifier_more_show_thursdayword_text" = "Thursday";
+"airpurifier_more_show_fridayword_text" = "Friday";
+"airpurifier_more_show_saturdayword_text" = "saturday";
+"airpurifier_more_show_myscheduling_tex" = "My Scheduling";
+"airpurifier_more_show_editscheduling_tex" = "Eidt Scheduling";
+"airpurifier_more_show_deletescheduling_tex" = "Delete Scheduling";
+"airpurifier_more_show_repeatsetting_tex" = "Repeating";
+"airpurifier_more_show_sunword_text" = "Sun.";
+"airpurifier_more_show_monword_text" = "Mon.";
+"airpurifier_more_show_tuesword_text" = "Tues.";
+"airpurifier_more_show_wedword_text" = "Wed.";
+"airpurifier_more_show_thurword_text" = "Thur.";
+"airpurifier_more_show_friword_text" = "Fir.";
+"airpurifier_more_show_satword_text" = "Sat.";
+"airpurifier_more_show_choosedevice_text" = "Choose Device";
+"airpurifier_more_show_choosemode_text" = "Choose Mode";
+"airpurifier_more_show_ontime_text" = "On time";
+"airpurifier_more_show_offtime_text" = "Off time";
+"airpurifier_more_show_repeatword_text" = "Repeat";
+"airpurifier_more_show_devicename_tex" = "Device Name";
+"airpurifier_more_show_devicemode_tex" = "Device Mode";
+// Four patterns
+"airpurifier_more_show_autoday_tex" = "auto day";
+"airpurifier_more_show_autonight_tex" = "auto night";
+"airpurifier_more_show_boostword_tex" = "boost";
+"airpurifier_more_show_silentword_tex" = "silent";
+"airpurifier_more_show_onceword_tex" = "Once";
+
+/*
+ Filter
+ */
+"airpurifier_more_show_filtercondition_tex" = "Filter Condition";
+// filter name
+"airpurifier_more_show_prefilter_tex" = "Pre-Filter";
+"airpurifier_more_show_activefilter_tex" = "Active carbon filter";
+"airpurifier_more_show_hepafilter_tex" = "HEPA filter";
+"airpurifier_more_show_nanofilter_tex" = "Nano capture filter";
+"airpurifier_more_show_overplus_tex" = "Overplus";
+"airpurifier_more_show_change_filter_ios" = "Change the filter";
+"airpurifier_more_show_check_color_ios" = "Check the color of the granules";
+"airpurifier_more_show_tobuy_tex" = "To buy";
+"airpurifier_more_cleanfilter_tex" = "Remember to clean the filter";
+
+/*
+ message
+ */
+"airpurifier_more_show_replacementremind_text" = "Filter replacement remind";
+"airpurifier_more_show_lv_content_ios" = "Composite %@ of your %@ has been working %@ hours and it has been consumed by %@.";
+"airpurifier_more_show_openairpurifier_text" = "Suggest open air purifier";
+// Suggest
+"airpurifier_more_show_pmitem_text_ios" = "The air quality of %@ is poor. Suggest wearing a mask in the open air and open air purifier.";
+
+/*
+ setting
+ */
+// Being pushed
+"airpurifier_more_show_msgsend_text" = "Indoor air quality";
+// Air quality report to the police
+"airpurifier_more_show_airqualityalerm_text" = "Outdoor air quality";
+// Parts update alert
+"airpurifier_more_show_memberupdatemetion_text" = "Filter update";
+"airpurifier_more_show_wifiupdatemetion_text" = "Wifi module update";
+// The current version app
+"airpurifier_more_show_updatetipmsg_text_ios" = "The current version";
+
+/*
+ outdoor Air quality
+ */
+// Reference Standard
+"airpurifier_more_airquality_standard_ios" = "Air Quality Reference Standard";
+"airpurifier_outdoor_show_outdoortitle_text" = "Outdoor air quality";
+"airpurifier_more_show_airquality_text" = "Air quality level table";
+// seven Air quality
+"airpurifier_more_air_headline" = "Headline";
+"airpurifier_more_air_description" = "Description";
+"airpurifier_more_air_fresh_headline" = "No risk";
+"airpurifier_more_air_fresh_description" = "The air si pure, ideal for outdoor activities!";
+"airpurifier_more_air_moderate_headline" = "Impact risk if chronic exposure";
+"airpurifier_more_air_moderate_description" = "The air is moderately polluted. Greater than the maximum limit established for one year by WHO. A long-term exposure constitutes a health risk.";
+"airpurifier_more_air_high_headline" = "Impact if chronic exposure";
+"airpurifier_more_air_high_description" = "The air has reached a hight level of pollution. Higher than the maximum limit for 24 hours established by WHO.";
+"airpurifier_more_air_very_headline" = "Immediate impact on health";
+"airpurifier_more_air_very_description" = "The air has reached a very high level of pollution. Effects can be immediately felt by individuals at risk. Everybody feels the effects of a prolonged exposure.";
+"airpurifier_more_air_excessive_headline" = "Immediate effects for individuals at risk";
+"airpurifier_more_air_excessive_description" = "The pollution level has reached a critical level. Individuals at risk feel immediate effects. Even healthy people may show symptoms for short exposure.";
+"airpurifier_more_air_extreme_headline" = "Immediate effects for everybody";
+"airpurifier_more_air_extreme_description" = "Pollution has reached extreme levels. Immediate effects on health. ";
+"airpurifier_more_air_airpocalypse_headline" = "Major immediate effects";
+"airpurifier_more_air_airpocalypse_description" = "Airpocalypse! Immediate and heavy effects on everybody.";
+"airpurifier_more_airquality_fresh" = "Fresh air";
+"airpurifier_more_airquality_moderate" = "Moderate pollution";
+"airpurifier_more_airquality_high" = "High pollution";
+"airpurifier_more_airquality_very" = "Very high pollution";
+"airpurifier_more_airquality_excessive" = "Excessive pollution";
+"airpurifier_more_airquality_extreme" = "Extreme pollution";
+"airpurifier_more_airquality_airpocalypse" = "Airpocalypse";
+
+/*
+ PM
+ */
+"airpurifier_more_show_pm_text_ios" = "PM2.5";
+"airpurifier_more_show_hcho_text_ios" = "HCHO";
+"airpurifier_more_show_text_ios" = "Suggest wearing surgical masks in the open air.";
+"airpurifier_more_show_openair_text" = "Intelligent open air purifier";
+
+/*
+ person setting
+ */
+"airpurifier_more_show_personaldata_text" = "Personal data policy";
+"airpurifier_more_show_legalnotice_text" = "Legal notice";
+"airpurifier_more_show_cookies_text" = "User of cookies";
+"airpurifier_more_show_termsofuse_text" = "Terms of use";
+"airpurifier_more_show_notifications_text" = "Settings of notifications";
+
+/*
+ user of cookies
+ */
+"airpurifier_more_show_agree_text" = "Agree";
+"airpurifier_more_show_cookiestitle_text" = "Your Choice concerning cookies";
+"airpurifier_more_show_cookiestitleTwoitem_text" = "During the use of the application, cookies may be  placed on your mobile. These cookies serve to store information and some are nessary to access certaion contents and / or services of the application. Select your choice. You can adjust your choice at any time from the page 《Use of cookies》in the 《Settings》section of the application.";
+"airpurifier_more_show_cookiestitles_text" = "Hearing measures";
+"airpurifier_more_show_cookiestitleitem_text" = "We use aduience measurement solutions to analyze traffic, trends and usages and identifiy malfunctions on the application to improve your user experience.";
+
+/*
+ city
+ */
+"airpurifier_adjust_show_modifycity_text" = "Modify The Display City";
+
+// Update the device
+"airpurifier_more_show_updatedevice_title" = "UPDATE TIP";
+"airpurifier_more_show_updatedevice_content" = "The current version is %@, and you can update to version %@.";
+
+"airpurifier_update_tip_msg_start" = "Find a new version, please update";
+"airpurifier_update_tip_goto" = "TO UPDATE";
+"airpurifier_update_tip_quit" = "QUIT";
+
+"airpurifier_outdoor_air_remind_f" = "- If the weather is good, take advantage to enjoy outside activities ! \n- Take this opportunity to air your rooms";
+"airpurifier_outdoor_air_remind_s" = "- If possible, avoid intensive sport activities outside \n- If possible, avoid main roads. Going away from a few tens of meters can make a big difference !";
+"airpurifier_outdoor_air_remind_t" = "- Avoid intensive sport activities outside \n- Avoid main roads. Going away from a few tens of meters can make a big difference !";
+"airpurifier_outdoor_air_remind_fo" = "- Toxic air :( Stay inside as much as possible \n- In case of respiratory and cardiac discomfort, consult your doctor";
+
+"airpurifier_upload_the_avatars" = "Picture upload failure";
+"airpurifier_avatars_for_failure" = "Avatars for failure";

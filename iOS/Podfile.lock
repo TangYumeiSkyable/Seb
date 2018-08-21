@@ -1,0 +1,51 @@
+PODS:
+  - BLLet/BLLetBase (2.5.3)
+  - BLLet/BLLetCore (2.5.3):
+    - BLLet/BLLetBase
+  - BLLet/BLLetPlugins (2.5.3):
+    - BLLet/BLLetBase
+  - Crashlytics (3.10.1):
+    - Fabric (~> 1.7.5)
+  - Fabric (1.7.5)
+  - INTULocationManager (4.2.0)
+  - IQKeyboardManager (5.0.7)
+  - Masonry (1.1.0)
+  - MJExtension (3.0.13)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - BLLet/BLLetCore (~> 2.0)
+  - BLLet/BLLetPlugins (~> 2.0)
+  - Crashlytics
+  - Fabric
+  - INTULocationManager
+  - IQKeyboardManager
+  - Masonry
+  - MJExtension
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Crashlytics
+    - Fabric
+    - INTULocationManager
+    - IQKeyboardManager
+    - Masonry
+    - MJExtension
+    - SVProgressHUD
+  https://github.com/ibroadlink/BLLibSpecs.git:
+    - BLLet
+
+SPEC CHECKSUMS:
+  BLLet: 54171b11a75315af002e0b679c9e7c9cbc28535d
+  Crashlytics: aee1a064cbbf99b32efa3f056a5f458d846bc8ff
+  Fabric: ae7146a5f505ea370a1e44820b4b1dc8890e2890
+  INTULocationManager: 73f8254b3d05c897c56bb13c190e5b7c648c0998
+  IQKeyboardManager: 0bfa4607d39924116b5c0c8b55b5d789288b5cba
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: adf4c79b3824693a9a43b9405df0a12874034b37
+
+COCOAPODS: 1.5.2
